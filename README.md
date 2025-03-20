@@ -11,11 +11,11 @@ We experimented with different machine learning models and graph neural networks
 ## To-Do
 
 ## Data source
-[HK Observatory Open data][(https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
+[HK Observatory Open data](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
 [HKO API Documentation](https://www.hko.gov.hk/en/weatherAPI/doc/files/HKO_Open_Data_API_Documentation.pdf)
 [HK Gov Open Data](https://data.gov.hk/en-datasets/category/climate-and-weather)
 
-![region graph with 1NN](region_graph.png?height=300)
+
 
 ## Explanation of the file structure
 
