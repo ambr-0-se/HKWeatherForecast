@@ -1,6 +1,6 @@
 # Graph Neural Networks for Weather Forecasting in Hong Kong
 
-## Introductioon
+## Introduction
 Weather forecast has been playing a critical role in contemporary society, and improving the accuracy of temperature forecast could bring numerous social and economic benefits. In this project, our objective is to leverage meteorological, spectral and temporal features to predict the weather in Hong Kong. 
 
 I retrieved data from (Hong Kong Observatory)[https://www.hko.gov.hk/en/index.html](HKO), which provide dataset and API to extract data.
