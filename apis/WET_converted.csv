@@ -1,0 +1,6 @@
+﻿DailyMeanWetBulb_AllYear_url,DailyMeanWetBulb_CurrentYear_url,WeatherStationName_en,WeatherStationName_sc,WeatherStationName_uc,GeometryLongitude,GeometryLatitude
+https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKA_WET_ALL.csv,https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKA_WET_2024.csv,Hong Kong International Airport,香港国际机场,香港國際機場,113.92194440000003,22.309444400000075
+https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKO_WET_ALL.csv,https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_HKO_WET_2024.csv,Hong Kong Observatory,香港天文台,香港天文台,114.17416670000011,22.301944400000025
+https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KP_WET_ALL.csv,https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_KP_WET_2024.csv,King's Park,京士柏,京士柏,114.17277780000006,22.311944400000073
+https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TMS_WET_ALL.csv,https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TMS_WET_2024.csv,Tai Mo Shan,大帽山,大帽山,114.12444440000002,22.410555600000066
+https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TC_WET_ALL.csv,https://data.weather.gov.hk/weatherAPI/hko_data/csdi/dataset/daily_TC_WET_2024.csv,Tate's Cairn,大老山,大老山,114.21777780000002,22.357777800000065

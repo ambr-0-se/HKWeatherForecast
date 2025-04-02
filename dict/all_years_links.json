@@ -1,0 +1,19 @@
+[
+    "DailyTotalBrightSunshine_AllYear_url",
+    "DailyMeanPressure_AllYear_url",
+    "DailyMaximumTemperature_AllYear_url",
+    "DailyMeanTemperature_AllYear_url",
+    "DailyMinimumTemperature_AllYear_url",
+    "DailyGlobalSolarRadiation_AllYear_url",
+    "DailyTotalEvaporation_AllYear_url",
+    "DailyMeanAmountCloud_AllYear_url",
+    "DailyMaximumUVIndex_AllYear_url",
+    "DailyMeanUVIndex_AllYear_url",
+    "DailyMeanRelativeHumidity_AllYear_url",
+    "DailyMaximumHeatIndex_AllYear_url",
+    "DailyMeanHeatIndex_AllYear_url",
+    "DailyTotalRainfall_AllYear_url",
+    "DailyMeanWindSpeed_AllYear_url",
+    "DailyPrevailingWindDirection_AllYear_url",
+    "DailyMeanWetBulb_AllYear_url"
+]
