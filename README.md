@@ -9,7 +9,19 @@ I retrieved data from [Hong Kong Observatory](https://www.hko.gov.hk/en/index.ht
 We experimented with different machine learning models and graph neural networks, and compared the performance with baseline methods.
 
 ## To-Do
+- Concatenate multiple datasets
+- Select stations, timeframe and features
+- Store the data as a PyG object and build a graph dataset 
+- Build a simple pipeline (consists of data preprocessing, train-test split, model training, model evaluation)
+- Start writing the paper (Objective of the paper, structure, section title, introduction)
 
+- Cross validation to find the best hyperparameter set
+- Using more advanced GNN architecture
+- Using time-series method to preprocess features/ kernels good at dealing with time-series data
+- Encode geographical feature of each station to the representation 
+    - lat and lon
+    - coastal areas, urban centers, and hilly regions
+- Adding more relevant attributes (time, other accessible weather features)
 ## Data source
 [HK Observatory Open data](https://www.hko.gov.hk/en/abouthko/opendata_intro.htm)
 [HKO API Documentation](https://www.hko.gov.hk/en/weatherAPI/doc/files/HKO_Open_Data_API_Documentation.pdf)
