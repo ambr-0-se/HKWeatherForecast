@@ -1,4 +1,4 @@
-![HK Night](photos/GettyImages-188076795-crop.webp?height=300)
+![HK Night](photos/GettyImages-188076795-crop.webp?height=100)
 # Graph Neural Networks for Weather Forecasting in Hong Kong
 
 ## Introduction
