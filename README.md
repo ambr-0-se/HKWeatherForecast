@@ -14,7 +14,7 @@ We experimented with different machine learning models and graph neural networks
 - Store the data as a PyG object and build a graph dataset 
 - Build a simple pipeline (consists of data preprocessing, train-test split, model training, model evaluation)
 - Start writing the paper (Objective of the paper, structure, section title, introduction)
-
+### Bonus
 - Cross validation to find the best hyperparameter set
 - Using more advanced GNN architecture
 - Using time-series method to preprocess features/ kernels good at dealing with time-series data
